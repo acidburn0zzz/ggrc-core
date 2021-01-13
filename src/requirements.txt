@@ -19,7 +19,7 @@ git+https://github.com/danring/HamlPy.git#egg=HamlPy
 google-api-python-client==1.2
 holidays==0.3.1
 html5lib==0.95
-httplib2==0.8
+httplib2==0.18.0
 iso8601==0.1.0
 itsdangerous==0.24
 MonthDelta==0.9.1
