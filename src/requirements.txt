@@ -8,7 +8,7 @@
 # - from HamlPy: Jinja2, django, pygments, markdown
 # - from Flask-SQLAlchemy: distribute
 #
-babel==1.3
+babel==2.9.1
 bleach==1.2.2
 blinker==1.3
 chardet==2.1.1
